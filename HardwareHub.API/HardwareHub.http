@@ -1,0 +1,6 @@
+@HardwareHub_HostAddress = http://localhost:5095
+
+GET {{HardwareHub_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

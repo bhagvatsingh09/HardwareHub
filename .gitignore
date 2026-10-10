@@ -1,0 +1,15 @@
+
+# .NET build output
+**/bin/
+**/obj/
+.vs/
+
+# User-specific files
+*.user
+*.suo
+
+# Local configuration and secrets
+appsettings.Development.json
+
+# Local application settings and secrets
+HardwareHub.API/appsettings.json
